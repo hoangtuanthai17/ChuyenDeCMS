@@ -1,0 +1,38 @@
+body {
+  font-family: 'Raleway', sans-serif;
+  font-size: 14px;
+  line-height: 1.42857143;
+  background-color: #fff;
+  padding-top: 126px;
+  font-weight: 400;
+}
+.no-margin {
+  margin: 0 !important;
+}
+.row {
+  position: relative;
+}
+.invo_heading {
+  letter-spacing: 5px;
+}
+.text-center {
+  text-align: center;
+}
+hr {
+  height: 2px;
+  width: 35px;
+  border: none;
+  text-align: center;
+  background: #57b22f;
+  display: inline-block;
+  margin: 5px auto;
+}
+.owl-clients {
+  margin: 50px 0;
+  height: 100px;
+  line-height: 100px;
+}
+img:hover {
+  opacity: 0.5;
+  filter: alpha(opacity=100);
+}
