@@ -1,0 +1,42 @@
+.img-blog-right {
+  height: auto;
+  max-width: 100%;
+  border: 0;
+  vertical-align: middle;
+  margin-top: 20px;
+}
+.accent {
+  margin-bottom: 20px;
+  color: #57b22f !important;
+  opacity: 1;
+  visibility: visible;
+  font-size: 12px;
+  font-family: 'Raleway', sans-serif;
+  margin: 15px 0;
+  text-transform: uppercase;
+  font-weight: 700;
+  clear: both;
+}
+.date-time {
+  color: #ffc925 !important;
+  letter-spacing: 2px;
+}
+.title-blog-right {
+  opacity: 1;
+  visibility: visible;
+  transition: opacity 0.24s ease-in-out;
+  font-family: 'Raleway', sans-serif;
+  margin: 15px 0;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+.bog-right p {
+  color: #404040;
+  line-height: 28px;
+  font-size: 15px;
+  margin: 10px 0;
+  display: block;
+}
+.bog-right span {
+  color: #404040;
+}
