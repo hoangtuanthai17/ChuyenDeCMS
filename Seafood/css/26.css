@@ -1,0 +1,105 @@
+.white {
+  color: black;
+}
+.wpb_wrapper {
+  background: #fff;
+  font-family: 'Raleway', sans-serif;
+  font-size: 14px;
+  line-height: 1.42857143;
+  font-weight: 400;
+}
+.form-control {
+  width: 100%;
+  padding: 10px 15px;
+  font-size: 14px;
+  font-weight: 300;
+  line-height: 1.42857143;
+  color: #DEDEDE;
+  background-color: transparent;
+  background-image: none;
+  border: 1px solid #919191;
+  text-transform: no-transform;
+  border-radius: 0;
+  margin: 30px 0;
+  box-shadow: none;
+}
+.button {
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+.button1 {
+  background-color: #57b22f;
+  color: white;
+  border: 2px solid #57b22f;
+}
+.button1:hover {
+  background-color: #57b22f;
+  color: black;
+}
+.container {
+  width: 1170px;
+}
+footer {
+  padding: 60px 0;
+  background: #262626;
+  color: white;
+}
+.container {
+  width: 1170px;
+}
+.container {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.no-margin {
+  margin: 0 !important;
+}
+hr {
+  height: 2px;
+  width: 35px;
+  border: none;
+  text-align: center;
+  background: #57b22f;
+  display: inline-block;
+  margin: 5px auto;
+}
+.white {
+  background-color: #262626;
+}
+.row {
+  margin-right: -15px;
+  margin-left: -15px;
+}
+.invo_heading {
+  letter-spacing: 3px;
+}
+.invo_bottom_footer {
+  float: left;
+  width: 100%;
+  background: #1D1C1C;
+  margin-top: 50px;
+}
+footer p.copyright {
+  color: #a0a0a0;
+  font-size: 14px;
+  margin: 0;
+  line-height: 50px;
+  font-weight: 600;
+}
+h5,
+.h5 {
+  font-size: 14px;
+  font-weight: 400;
+  text-transform: inherit;
+  color: #57b22f;
+}
