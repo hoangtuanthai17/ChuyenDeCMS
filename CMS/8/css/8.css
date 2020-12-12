@@ -1,0 +1,26 @@
+.icon-online-booking {
+  font-size: 30px;
+  color: #57b22f !important;
+}
+.content-online-booking {
+  margin-left: 70px;
+  margin-top: -45px;
+}
+.content-online-booking h5 {
+  font-family: 'Raleway', sans-serif;
+  margin: 5px 0;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+.title-online-booking {
+  font-size: 12px;
+}
+.content-online-booking p {
+  color: #404040;
+  font-size: 15px;
+}
+.img-girl > img {
+  height: auto;
+  max-width: 100%;
+  vertical-align: top;
+}
