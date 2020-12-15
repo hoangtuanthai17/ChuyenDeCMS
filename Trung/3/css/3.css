@@ -1,0 +1,104 @@
+.banner {
+  text-align: center;
+  position: relative;
+}
+.banner h3 {
+  font-family: Cursive;
+  color: white;
+  text-transform: none;
+  font-style: italic;
+  font-size: 30px;
+  font-weight: 10000;
+  padding-top: 80px;
+  padding-bottom: 20px;
+}
+.banner p {
+  font-family: Raleway;
+  letter-spacing: 2px;
+  visibility: visible;
+  text-align: left;
+  line-height: 30px;
+  font-weight: 300;
+  font-size: 19px;
+  border-color: #404040;
+  border-style: none;
+  margin-left: 180px;
+  margin-bottom: 40px;
+  border-radius: 0px;
+  padding: 0px;
+  color: #ffffff;
+  text-decoration: none;
+  white-space: normal;
+  width: 820px;
+  height: 91px;
+  min-height: 0px;
+  min-width: 0px;
+  max-height: none;
+  max-width: none;
+  opacity: 1;
+  text-transform: none;
+}
+.banner button {
+  font-family: Montserrat;
+  text-transform: uppercase;
+  background: #3dcc3d;
+  color: white;
+  padding: 10px;
+  border: none;
+}
+.banner button:hover {
+  background: greenyellow;
+}
+.banner .set {
+  height: 500px;
+}
+.banner #slide-0 {
+  background: url("../images/slide1.jpg") no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.banner #slide-1 {
+  background: url("../images/slide2.jpg") no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.banner #slide-2 {
+  background: url("../images/slide3.jpg") no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.banner .slide1 {
+  text-transform: uppercase;
+  font-family: Montserrat;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.banner .slide3 {
+  text-transform: uppercase;
+  font-family: Montserrat;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.banner .slide2 {
+  text-transform: uppercase;
+  font-family: Montserrat;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+@media only screen and (max-width: 700px) {
+  .banner h1 {
+    font-size: 70px;
+  }
+  .banner h3 {
+    font-size: 20px;
+  }
+  .banner h4 {
+    font-size: 7px;
+  }
+}

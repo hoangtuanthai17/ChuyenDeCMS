@@ -1,0 +1,86 @@
+.banner {
+  position: relative;
+}
+.banner h3 {
+  font-family: Montserrat;
+  color: white;
+  font-size: 40px;
+}
+.banner h1 {
+  font-family: Montserrat;
+  height: 70px;
+  font-size: 130px;
+  font-weight: bold;
+  color: rgba(245,245,245,0.56);
+}
+.banner h4 {
+  font-family: Montserrat;
+  font-size: 12px;
+  font-weight: 400;
+  color: #fff;
+}
+.banner button {
+  font-family: Montserrat;
+  text-transform: uppercase;
+  background: #3dcc3d;
+  color: white;
+  padding: 10px;
+  border: none;
+}
+.banner button:hover {
+  background: greenyellow;
+}
+.banner .set {
+  float: left;
+  height: 500px;
+}
+.banner #slide-0 {
+  background: url("../images/slide1_bg.jpg") no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.banner #slide-1 {
+  background: url("../images/slide2_bg.jpg") no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.banner #slide-2 {
+  background: url("../images/slide3_bg.jpg") no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.banner .slide1 {
+  text-transform: uppercase;
+  font-family: Montserrat;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.banner .slide3 {
+  text-transform: uppercase;
+  font-family: Montserrat;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.banner .slide2 {
+  text-transform: uppercase;
+  font-family: Montserrat;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+@media only screen and (max-width: 700px) {
+  .banner h1 {
+    font-size: 70px;
+  }
+  .banner h3 {
+    font-size: 20px;
+  }
+  .banner h4 {
+    font-size: 7px;
+  }
+}
