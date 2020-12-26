@@ -1,0 +1,61 @@
+.btn-default:hover {
+  color: #49dc40;
+  background-color: #fff;
+  border-color: #49dc40;
+}
+.btn-default {
+  border-color: #262626;
+  color: #262626;
+  background: transparent;
+  font-size: 14px;
+  font-weight: 700;
+}
+.btn {
+  text-transform: uppercase;
+  display: inline-block;
+  padding: 6px 12px;
+  border: 2px solid transparent;
+  border-radius: 0;
+  transition: all 0.3s ease;
+}
+.btn-default {
+  color: #333;
+  background-color: #fff;
+  border-color: #333;
+}
+body {
+  font-family: 'Raleway', sans-serif;
+  font-size: 14px;
+  line-height: 1.42857143;
+  background-color: #fff;
+  padding-top: 126px;
+  font-weight: 400;
+}
+.portfolio-filter a {
+  margin: 10px;
+  font-size: 15px;
+  font-weight: 600;
+}
+hr {
+  height: 2px;
+  width: 35px;
+  border: none;
+  text-align: center;
+  background: #49dc40;
+  display: inline-block;
+  margin: 5px auto;
+}
+.invo_heading {
+  font-weight: 550;
+}
+.portfolio-container .item img {
+  width: 100%;
+  height: 100%;
+  top: 0;
+}
+.portfolio-container .item.w3 {
+  width: 33.333333333%;
+}
+.portfolio-container {
+  margin-top: 40px;
+}
